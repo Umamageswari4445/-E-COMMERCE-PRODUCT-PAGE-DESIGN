@@ -2,7 +2,7 @@
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
-*NAME* : UMAMAGESWARI
+*NAME* : UMAMAGESWARI.P
 
 *INTERN ID* : CT04DG210
 
@@ -21,13 +21,13 @@ To begin with, I launched Figma and selected the iPhone 16 Pro Max frame as the 
 
 *The design was built using a wide array of Figma tools and techniques. I used* :
 
- -> Shapes (rectangle, ellipse, etc.) for UI sections and button creation
+ - > Shapes (rectangle, ellipse, etc.) for UI sections and button creation
 
- -> Text tools for product descriptions, pricing, headings, and customer reviews
+ - > Text tools for product descriptions, pricing, headings, and customer reviews
 
- -> Auto Layout to keep all elements consistently aligned and responsive
+ - > Auto Layout to keep all elements consistently aligned and responsive
 
- -> Frame nesting to create organized groups and maintain a clean design structure
+ - > Frame nesting to create organized groups and maintain a clean design structure
 
 One of the most helpful features during this process was Auto Layout. I used it extensively to align buttons, price tags, icons, and reviews consistently within frames.
 Auto Layout made spacing and alignment across different sections (like size selector, “Add to Cart” button, and product image sliders) much more manageable. It also helped make the prototype more scalable — for instance, if I updated the text or icons, everything stayed aligned without manual repositioning.
@@ -49,19 +49,19 @@ the search bar interaction, login/sign-up pages, cart interface, and finally the
 
 *Key Features & Tools Used* :
 
- -> Frame: iPhone 16 Pro Max for consistency
+ - > Frame: iPhone 16 Pro Max for consistency
 
- -> Tools: Shapes, Text, Auto Layout, Grouping, Components
+ - > Tools: Shapes, Text, Auto Layout, Grouping, Components
 
- -> Icons: Imported from Lucide.dev as SVGs
+ - > Icons: Imported from Lucide.dev as SVGs
 
- -> Component Sets: Created for repeated UI elements like buttons, nav bars, etc.
+ - > Component Sets: Created for repeated UI elements like buttons, nav bars, etc.
 
- -> Simulated 360° View: Through image scroll interaction
+ - > Simulated 360° View: Through image scroll interaction
 
- -> Customer Reviews: Displayed with avatars, ratings, and feedback text
+ - > Customer Reviews: Displayed with avatars, ratings, and feedback text
 
- -> Prototype Flow: Connected from homepage to success screen
+ - > Prototype Flow: Connected from homepage to success screen
 
 This task significantly strengthened my understanding of UI/UX best practices, prototyping in Figma, and the importance of consistency, alignment, and reusability in design systems.
 It gave me hands-on experience in building a complete e-commerce experience while exploring realistic interaction patterns like product previews and customer feedback. 
