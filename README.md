@@ -66,3 +66,44 @@ the search bar interaction, login/sign-up pages, cart interface, and finally the
 This task significantly strengthened my understanding of UI/UX best practices, prototyping in Figma, and the importance of consistency, alignment, and reusability in design systems.
 It gave me hands-on experience in building a complete e-commerce experience while exploring realistic interaction patterns like product previews and customer feedback. 
 Most importantly, I was able to replicate a real-world shopping experience in a clear, structured, and interactive design environment using Figma’s powerful tools.
+
+# OUTPUT :
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/cfbe7ee0-0504-4efc-8873-9e8f89ad27c8" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/cb833634-1fba-432f-9dd5-9e8e8a0568fc" />
+
+
+<img width="307" height="590" alt="Image" src="https://github.com/user-attachments/assets/38df5cad-eef2-4263-8430-ffc066b1949e" />
+
+
+<img width="333" height="599" alt="Image" src="https://github.com/user-attachments/assets/6c81ccca-5754-4d91-bcab-aa11a02c460a" />
+
+
+<img width="306" height="572" alt="Image" src="https://github.com/user-attachments/assets/b969ea34-8915-4a18-b77e-9f3fc7e15b03" />
+
+
+<img width="286" height="581" alt="Image" src="https://github.com/user-attachments/assets/961e2fcf-cad5-4efc-8d35-ce15c196e904" />
+
+
+<img width="287" height="566" alt="Image" src="https://github.com/user-attachments/assets/6092fb08-b9a8-4fee-9bef-9505236e1c7a" />
+
+
+<img width="309" height="588" alt="Image" src="https://github.com/user-attachments/assets/5d2b50d3-c89b-45a5-beea-71797ad989d0" />
+
+
+<img width="286" height="570" alt="Image" src="https://github.com/user-attachments/assets/31cbbcaa-caab-4396-8964-c9a498c85db4" />
+
+
+<img width="309" height="575" alt="Image" src="https://github.com/user-attachments/assets/1af38329-7a01-4915-922f-794f33187828" />
+
+
+<img width="306" height="584" alt="Image" src="https://github.com/user-attachments/assets/6ee102fd-c46c-4910-b53a-a9bde673ffb2" />
+
+
+<img width="315" height="570" alt="Image" src="https://github.com/user-attachments/assets/9d707338-b2fd-4925-b483-375ab69cacd5" />
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fbeb683b-607c-43d0-b2be-da5e749fbfb4" />
+
